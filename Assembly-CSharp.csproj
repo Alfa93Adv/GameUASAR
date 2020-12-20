@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\ButtonManager.cs" />
+     <Compile Include="Assets\Script\Button.cs" />
      <None Include="Assets\StreamingAssets\Vuforia\UAS.xml" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
